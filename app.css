@@ -1,0 +1,25 @@
+.center {
+  margin-right: 25%;
+  margin-left: 25%;
+  
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(5, 4, 15, 0.301);
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(5, 4, 15, 0.301);
+  
+  padding-left: 2%;
+  font-size: small;
+}
+
+.items {
+  
+}
